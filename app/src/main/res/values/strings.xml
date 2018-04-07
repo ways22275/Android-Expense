@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Expense</string>
+    <string name="action_settings">Settings</string>
+    <string name="amount_is_empty_message">Amount needed</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+</resources>
